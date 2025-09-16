@@ -1,8 +1,14 @@
-# 🌐 2025_FIT4014_Thiết Kế Web  
+<h1 align="center">
+  <span style="background: linear-gradient(to right, #ff416c, #ff4b2b); 
+               -webkit-background-clip: text; 
+               -webkit-text-fill-color: transparent;">
+    🌐 2025_FIT4014_Thiết Kế Web
+  </span>
+</h1>
 
-## 👋 Xin chào!  
-Mình là **Lê Văn Đạt**  
-SBD: **1971020090**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF4B2B&center=true&vCenter=true&width=600&lines=👋+Xin+chào!;Mình+là+Lê+Văn+Đạt;SBD:+1971020090" />
+</p>
 
 ---
 
@@ -18,5 +24,5 @@ Học hỏi & phát triển kỹ năng **Thiết kế Web** với tinh thần s�
 ---
 
 ### 📬 Liên hệ
-📧 Email: *datdevl@gnail.com*  
-🌍 GitHub: [github.com/datdevl](https://github.com/datdevl)  
+- 📧 Email: **datdevl@gnail.com**  
+- 🌍 GitHub: [github.com/datdevl](https://github.com/datdevl)  
