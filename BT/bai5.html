@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>HR Management</title>
+</head>
+<body>
+    <header>
+        <h2>HR Management</h2>
+
+        <nav>
+            <a href="#">Home</a> |
+            <a href="#">Contact</a>
+        </nav>
+
+        <form>
+            <input type="text" placeholder="Search...">
+            <input type="submit" value="Search">
+        </form>
+    </header>
+    <main>
+        <h2>Employee</h2>
+        <button>+Add</button>
+        <br> <br>
+        <table border="1">
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Phone</th>
+                <th>Position</th>
+                <th colspan="2">Action</th>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>Fatima Beatriz</td>
+                <td>Fatima Beatriz@gmail.com</td>
+                <td>0985674321</td>
+                <td>Staff</td>
+                <td><button>Edit</button></td>
+                <td><button>Delete</button></td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Gabriel Hanna</td>
+                <td>Gabriel Hanna@gmail.com</td>
+                <td>0353674231</td>
+                <td>Staff</td>
+                <td><button>Edit</button></td>
+                <td><button>Delete</button></td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Charles Diya</td>
+                <td>Charles Diya@gmail.com</td>
+                <td>0347658833</td>
+                <td>Staff</td>
+                <td><button>Edit</button></td>
+                <td><button>Delete</button></td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Frank Lamdo</td>
+                <td>Frank Lamdo@gmail.com</td>
+                <td>0975444768</td>
+                <td>Manager</td>
+                <td><button>Edit</button></td>
+                <td><button>Delete</button></td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>Louis Tom</td>
+                <td>Louis Tom@gmail.com</td>
+                <td>0785444768</td>
+                <td>Staff</td>
+                <td><button>Edit</button></td>
+                <td><button>Delete</button></td>
+            </tr>
+        </table>
+        <h3>Name</h3>
+        <input type="text" name="name"></input>
+        <h3>Phone</h3>
+        <h3>Sex</h3>
+        <input type="text" name="phone"></input>
+        <h3>Sex</h3>
+        <select name="sex">
+            <option value="Male">Male</option>
+            <option value="Female">Female</option>
+        </select>
+        <h3>Email</h3>
+        <input type="text" name="email"></input>
+        <h3>Position</h3>
+        <select name="position">
+            <option value="">--Select Position--</option>
+            <option value="Staff">Staff</option>
+            <option value="Manager">Manager</option>
+            <option value="Director">CEO</option>
+        </select>
+        <button>Save</button>
+        <button>Cancel</button>
+    </main>
+</body>
+</html>
