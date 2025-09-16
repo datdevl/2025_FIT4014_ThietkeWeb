@@ -1,9 +1,11 @@
 <h1 align="center">
-  <span style="background: linear-gradient(to right, #ff416c, #ff4b2b); 
-               -webkit-background-clip: text; 
-               -webkit-text-fill-color: transparent;">
-    🌐 2025_FIT4014_Thiết Kế Web
-  </span>
+  <marquee behavior="scroll" direction="left" scrollamount="12">
+    <span style="background: linear-gradient(to right, #ff416c, #ff4b2b); 
+                 -webkit-background-clip: text; 
+                 -webkit-text-fill-color: transparent;">
+      🌐 2025_FIT4014_Thiết Kế Web
+    </span>
+  </marquee>
 </h1>
 
 <p align="center">
@@ -12,17 +14,19 @@
 
 ---
 
-### 🏫 Thông tin
+## 🏫 Thông tin
 - 🎓 **Trường:** Đại học Đại Nam  
 - 💻 **Lớp:** CNTT-K19-07  
 
 ---
 
-### 🚀 Mục tiêu học tập
+## 🚀 Mục tiêu học tập
 Học hỏi & phát triển kỹ năng **Thiết kế Web** với tinh thần sáng tạo và trách nhiệm. ✨  
 
 ---
 
-### 📬 Liên hệ
+## 📬 Liên hệ
 - 📧 Email: **datdevl@gnail.com**  
 - 🌍 GitHub: [github.com/datdevl](https://github.com/datdevl)  
+
+---
