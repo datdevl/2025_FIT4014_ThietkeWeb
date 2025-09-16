@@ -1,15 +1,9 @@
-<h1 align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="12">
-    <span style="background: linear-gradient(to right, #ff416c, #ff4b2b); 
-                 -webkit-background-clip: text; 
-                 -webkit-text-fill-color: transparent;">
-      🌐 2025_FIT4014_Thiết Kế Web
-    </span>
-  </marquee>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF4B2B&size=28&center=true&vCenter=true&width=700&lines=🌐+2025_FIT4014_Thiết+Kế+Web" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF4B2B&center=true&vCenter=true&width=600&lines=👋+Xin+chào!;Mình+là+Lê+Văn+Đạt;SBD:+1971020090" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=007ACC&center=true&vCenter=true&width=600&lines=👋+Xin+chào!;Mình+là+Lê+Văn+Đạt;SBD:+1971020090" />
 </p>
 
 ---
