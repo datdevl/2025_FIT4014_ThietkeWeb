@@ -22,7 +22,7 @@
 
 ## 🚀 Mục tiêu học tập
 Học hỏi & phát triển kỹ năng **Thiết kế Web** với tinh thần sáng tạo và trách nhiệm. ✨  
-Chạy Web tại: https://levandat.online
+Chạy Web tại: <a href="https://levandat.online" target="_blank">Đâyyy</a>
 ---
 
 ## 📬 Liên hệ
