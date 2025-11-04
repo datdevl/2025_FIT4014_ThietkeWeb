@@ -1,5 +1,6 @@
 <h1 align="center">
   <marquee behavior="scroll" direction="left" scrollamount="12">
+    <a href="https://datdevl.github.io/my-portfolio-final/">Click tại đây để mở web BT </a>
     <span style="background: linear-gradient(to right, #ff416c, #ff4b2b); 
                  -webkit-background-clip: text; 
                  -webkit-text-fill-color: transparent;">
